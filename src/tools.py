@@ -8,7 +8,7 @@ from langchain_community.retrievers import TavilySearchAPIRetriever
 from typing import List
 from langchain_core.documents import Document
 from langchain_core.tools import tool
-from src.config import CHROMA_DB_PATH, EMBEDDING_MODEL_NAME, RERANKER_MODEL_NAME
+from config import CHROMA_DB_PATH, EMBEDDING_MODEL_NAME, RERANKER_MODEL_NAME
 
 embeddings_model = HuggingFaceEmbeddings(
     model_name=EMBEDDING_MODEL_NAME,
