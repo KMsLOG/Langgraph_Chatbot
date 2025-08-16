@@ -5,10 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12.8"
 dependencies = [
+    "gradio>=5.42.0",
     "langchain>=0.3.27",
     "langchain-chroma>=0.2.5",
     "langchain-community>=0.3.27",
     "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.30",
     "langgraph>=0.6.5",
     "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.1.0",
+    "tavily-python>=0.7.10",
 ]
