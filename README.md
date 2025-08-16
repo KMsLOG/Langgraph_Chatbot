@@ -16,6 +16,18 @@ langgraph_chatbot/
 ├── config.py          # 설정
 └── logger_config.py   # 로깅 설정
 ```
+## 기술 스택
+<div align=left> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=white">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=Gradio&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-6665CD?style=for-the-badge">
+
+</div>
 
 ## 설치 및 실행
 ### 1. 가상 환경 생성 및 활성화
