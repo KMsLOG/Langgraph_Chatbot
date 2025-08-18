@@ -1,4 +1,4 @@
-# Langgraph_Chatbot
+# LangGraph_Chatbot
 - AI 에이전트로 구현하는 RAG 시스템 강의를 바탕으로 제작한 **LangGraph 기반 챗봇**입니다.
 
 ## 프로젝트 구조
