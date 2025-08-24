@@ -88,3 +88,7 @@ uv run python app.py
 
 ## LangGraph 구조
 <img width="696" height="432" alt="Image" src="https://github.com/user-attachments/assets/7c7f473a-97b4-4729-b8b0-8e9b552a85cf" />
+
+## RAG Agent 구조
+<img width="427" height="565" alt="image" src="https://github.com/user-attachments/assets/6bbe50b9-248d-464d-ad55-df9a596cf0f2" />
+
